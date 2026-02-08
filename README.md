@@ -14,9 +14,9 @@ I build open-source tools for **immutable Linux infrastructure**, **self-hosting
 Most of my work revolves around the **kiwi-network** — Enterprise Linux for Everyone — powered by Fedora CoreOS, Bluefin and atomic desktops.
 
 - 🔭 Currently working on **[esconce](https://github.com/derlocke-ng/esconce)** & the **[kiwi-network](https://github.com/derlocke-ng/kiwi-network-welcome)** ecosystem
-- 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)** and building **[blackfin](https://github.com/derlocke-ng/blackfin)** on top
+- 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)**
 - 🔐 Passionate about **privacy, encryption & network security**
-- 🕹️ Retro gaming enthusiast — GZDoom, DOS classics, you name it
+- 🕹️ Retro gaming enthusiast — GZDoom, DOS classics, Tomb Raider, you name it
 - 📍 /dev/null
 
 ---
@@ -45,7 +45,6 @@ Most of my work revolves around the **kiwi-network** — Enterprise Linux for Ev
 | Project | Description |
 |---|---|
 | [**kiwi-network**](https://github.com/derlocke-ng/kiwi-network-welcome) | Enterprise Linux for Everyone — the umbrella for all kiwi projects |
-| [**blackfin**](https://github.com/derlocke-ng/blackfin) | Custom OCI image-based immutable Linux built on Bluefin. Arr! 🏴‍☠️ |
 | [**esconce**](https://github.com/derlocke-ng/esconce) | Modular post-installation setup for Bluefin-DX |
 | [**awesome-linux**](https://github.com/derlocke-ng/awesome-linux) | A collection of shell scripts & tools for Linux automation |
 | [**kiwi-server**](https://github.com/derlocke-ng/kiwi-server) | Fedora CoreOS Butane/Ignition/ISO generator for mass deployment |
@@ -53,7 +52,6 @@ Most of my work revolves around the **kiwi-network** — Enterprise Linux for Ev
 | [**kiwi-blog**](https://github.com/derlocke-ng/kiwi-blog) | Lightweight static site generator powered by Markdown |
 | [**EnigmaJS**](https://github.com/derlocke-ng/EnigmaJS) | Private chat that leaves no trace |
 | [**tangpod**](https://github.com/derlocke-ng/tangpod) | Run a Tang (NBDE) server with Podman |
-| [**mullvad-socks5**](https://github.com/derlocke-ng/mullvad-socks5) | Discover Mullvad WireGuard SOCKS5 proxy endpoints |
 
 ---
 
