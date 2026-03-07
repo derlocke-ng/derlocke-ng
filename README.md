@@ -8,8 +8,7 @@
 <p align="center">
   <a href="mailto:info@derlocke.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://kiwi-network.eu"><img alt="kiwi-network" src="https://img.shields.io/badge/kiwi--network-4EAA25?style=for-the-badge&label=%F0%9F%A5%9D&labelColor=4EAA25&color=4EAA25&logoColor=white"/></a>
-  <a href="https://derlocke.net"><img alt="derlocke.net" src="https://raw.githubusercontent.com/derlocke-ng/derlocke-ng/main/dl_r.png" height="28"/></a>
-</p>
+  <a href="https://derlocke.net"><img alt="derlocke.net" src="https://raw.githubusercontent.com/derlocke-ng/derlocke-ng/main/dl_r.png" height="28" style="filter: brightness(0.7)"/></a>
 
 ---
 
