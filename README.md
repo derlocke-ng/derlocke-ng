@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm derlocke-ng</h1>
 
 <p align="center">
-  <em>Cyberanarchist and freelancer. ☢️🔥⚡</em>
+  <em>Cyberanarchist and freelancer.</em>
 </p>
 
 
