@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm derlocke-ng</h1>
 
 <p align="center">
-  <em>A 🥝 a day keeps the closed-source away!</em>
+  <em>Cyberanarchist and freelancer. Hit me up: info@derlocke.com</em>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Most of my work revolves around the **kiwi-network** — Enterprise Linux for Ev
 - 🔭 Currently working on **[esconce](https://github.com/derlocke-ng/esconce)** & the **[kiwi-network](https://github.com/derlocke-ng/kiwi-network-welcome)** ecosystem
 - 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)**
 - 🔐 Passionate about **privacy, encryption & network security**
-- 🕹️ Retro gaming enthusiast — GZDoom, DOS classics, Tomb Raider, you name it
+- 🕹️ Retro gaming enthusiast — Doom, Duke Nukem, Unreal Torunament, Tomb Raider, you name it
 - 📍 /dev/null
 
 ---
@@ -33,6 +33,9 @@ Most of my work revolves around the **kiwi-network** — Enterprise Linux for Ev
 ![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Tor](https://img.shields.io/badge/-Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![iptables](https://img.shields.io/badge/-iptables-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![systemd](https://img.shields.io/badge/-systemd-30D475?style=flat-square&logo=systemd&logoColor=white)
@@ -55,27 +58,6 @@ Most of my work revolves around the **kiwi-network** — Enterprise Linux for Ev
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=derlocke-ng&show_icons=true&count_private=true&theme=dark" alt="derlocke-ng" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derlocke-ng&layout=compact&count_private=true&theme=dark" alt="derlocke-ng" />
-  </p>
-</details>
-
-<details>
-  <summary>🏆 Trophies</summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=derlocke-ng&theme=darkhub" alt="derlocke-ng" />
-  </p>
-</details>
-
----
-
 <p align="center">
-  <em>Show ❤️ by ⭐ my <a href="https://github.com/derlocke-ng?tab=repositories">repositories</a>!</em>
+  <em>A 🥝 a day keeps the closed-source away!</em>
 </p>
