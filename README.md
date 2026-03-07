@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm derlocke-ng</h1>
 
 <p align="center">
-  <em>Cyberanarchist and freelancer.</em>
+  <em>Unaffiliated digital disruptor. Freelance developer and cyberanarchist building tools that challenge the status quo. Code as resistance.</em>
 </p>
 
 
@@ -12,8 +12,7 @@
 
 ---
 
-I build open-source tools for **Linux**, which make **self-hosting** easy, **networking** understandable and **privacy** the main concern.
-Most of my work revolves around the **kiwi-network** — enterprise Linux for everyone — powered by Fedora CoreOS, Bluefin, Docker/Podman and lots of Bash.
+I build open-source Linux tools that smash the myth that enterprise infrastructure requires corporate overlords. Self-hosting should be accessible. Networking should be transparent. Privacy should be mandatory. Most of my work fuels kiwi-network — real enterprise Linux for everyone — powered by Fedora CoreOS, Bluefin, Docker/Podman, and lots of Bash.
 
 - 🔭 Currently working on **[esconce](https://github.com/derlocke-ng/esconce)** & the **[kiwi-network](https://github.com/derlocke-ng/kiwi-network-welcome)** ecosystem
 - 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)**
