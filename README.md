@@ -13,8 +13,8 @@
 
 ---
 
-I build open-source tools for **Linux**, **self-hosting**, **networking** and **privacy**.
-Most of my work revolves around the **kiwi-network** — secure and easy enterprise Linux for everyone — powered by Fedora CoreOS, Bluefin, Docker/Podman and lots of bash.
+I build open-source tools for **Linux**, which make **self-hosting** easy, **networking** understandable and **privacy** the main concern.
+Most of my work revolves around the **kiwi-network** — secure and easy enterprise Linux for everyone — powered by Fedora CoreOS, Bluefin, Docker/Podman and lots of Bash.
 
 - 🔭 Currently working on **[esconce](https://github.com/derlocke-ng/esconce)** & the **[kiwi-network](https://github.com/derlocke-ng/kiwi-network-welcome)** ecosystem
 - 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)**
