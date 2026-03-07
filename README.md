@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm derlocke-ng</h1>
 
 <p align="center">
-  <em>Cyberanarchist and freelancer. Hit me up: info@derlocke.com</em>
+  <em>Cyberanarchist and freelancer.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/derlocke-ng"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:info@derlocke.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
