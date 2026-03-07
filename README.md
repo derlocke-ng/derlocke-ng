@@ -21,7 +21,7 @@ I build open-source Linux tools that smash the myth that enterprise infrastructu
 - 🎥 Movie & TV fanatic | Living for great quotes ✨
 - 📍 /dev/null (Germany for business inquiries)
 - 📫 Interested in a collab? Have questions? Just hit me up!
-- 🌑 Working in private on a multi-hop anonymization suite which builds on Tor, MysteriumVPN, gluetun and 9proxy including a customizable anti-detect Firefox browser manager for easy multi-account usage (like a Eierlegende-Wollmilchsau for cyberanarchists and pentesters)
+- 🌑 Working in private on a multi-hop anonymization suite which builds on Tor, MysteriumVPN, gluetun and 9proxy including a customizable anti-detect Firefox browser manager for easy multi-account usage (like a Eierlegende-Wollmilchsau for security researchers)
 
 ---
 
