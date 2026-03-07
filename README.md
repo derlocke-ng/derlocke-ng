@@ -20,6 +20,8 @@ Most of my work revolves around the **kiwi-network** — enterprise Linux for ev
 - 🔐 Passionate about **privacy, encryption & network security**
 - 🕹️ Retro gaming enthusiast — Doom, Duke Nukem, Tomb Raider, Half-Life, you name it
 - 📍 /dev/null
+- 💬 Reden ist silber, Schweigen ist gold!
+- 📫 Interested in a collab? Have questions? Just hit me up!
 
 ---
 
