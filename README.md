@@ -12,7 +12,7 @@
 
 ---
 
-I build open-source Linux tools that smash the myth that enterprise infrastructure requires corporate overlords. Self-hosting should be accessible. Networking should be transparent. Privacy should be mandatory. Most of my work fuels **kiwi-network** — real enterprise Linux for everyone — powered by Fedora CoreOS, Bluefin, Docker/Podman, and lots of Bash.
+I build open-source Linux tools that smash the myth that enterprise infrastructure requires corporate overlords. Self-hosting should be accessible. Networking should be transparent. Privacy should be mandatory. Most of my work fuels **kiwi-network** — enterprise Linux for everyone — powered by Fedora CoreOS, Bluefin, Docker/Podman, and lots of Bash.
 
 - 🔭 Currently working on **[esconce](https://github.com/derlocke-ng/esconce)** & the **[kiwi-network](https://github.com/derlocke-ng/kiwi-network-welcome)** ecosystem
 - 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)**
@@ -20,6 +20,7 @@ I build open-source Linux tools that smash the myth that enterprise infrastructu
 - 🕹️ Retro gaming enthusiast — Doom, Duke Nukem, Tomb Raider, Half-Life, you name it
 - 📍 /dev/null
 - 📫 Interested in a collab? Have questions? Just hit me up!
+- 🌑 Working in private on a multi-hop anonymization suite which builds on Tor, MysteriumVPN, gluetun and 9proxy including a customizable anti-detect Firefox browser manager for easy multi-account usage (like a Eierlegende-Wollmilchsau for cyberanarchists and pentesters)
 
 ---
 
