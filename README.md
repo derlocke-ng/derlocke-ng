@@ -18,7 +18,7 @@ Most of my work revolves around the **kiwi-network** — enterprise Linux for ev
 - 🔭 Currently working on **[esconce](https://github.com/derlocke-ng/esconce)** & the **[kiwi-network](https://github.com/derlocke-ng/kiwi-network-welcome)** ecosystem
 - 🐧 Daily-driving **[Bluefin](https://projectbluefin.io/)**
 - 🔐 Passionate about **privacy, encryption & network security**
-- 🕹️ Retro gaming enthusiast — Doom, Duke Nukem, Unreal Torunament, Tomb Raider, you name it
+- 🕹️ Retro gaming enthusiast — Doom, Duke Nukem, Tomb Raider, Half-Life, you name it
 - 📍 /dev/null
 
 ---
